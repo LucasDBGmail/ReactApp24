@@ -1,0 +1,39 @@
+.loginContainer {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.dropdown select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 16px;
+}
+
+.message {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.message h1 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.message span {
+    font-size: 18px;
+    color: green;
+}
+
+.message span,
+.message h1 {
+    display: block;
+}
+
